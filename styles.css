@@ -9,5 +9,22 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
-    
+    background-color: rgb(255, 170, 0);
+    width: 789;
+    padding: 90px;
+    border-radius: 288px;
+    margin: 100px;
+    border: dotted 8.5px;
+    font-size: 95px;
 }
+
+.square {
+    padding: 90.5px;
+    margin: 100px;
+    border-radius: 45px;
+    background-color: rgb(255, 213, 0);;
+}
+
+
+
+
